@@ -1,5 +1,5 @@
 # Hi, how is your day going mate?
-![My stats](https://github-stats-alpha.vercel.app/api/?username=Pay2win-i686&cc=000000&tc=7759b5&ic=9c6bff&bc=402773)
+![My stats](https://github-stats-alpha.vercel.app/api/?username=lunna-i3&cc=000000&tc=7759b5&ic=9c6bff&bc=402773)
 ## programming languages ​​& knowledge
 - ![Python](https://img.shields.io/badge/PYTHON-1a1a1a?style=for-the-badge&logo=python&logoColor=a436ff) (3 years of usage)
 - ![C](https://img.shields.io/badge/C-1a1a1a?style=for-the-badge&logo=C&logoColor=a436ff) (2 months of learning and usage)
